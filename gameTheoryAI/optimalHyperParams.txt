@@ -1,0 +1,1 @@
+[I 2025-04-02 18:08:05,685] Trial 495 finished with value: 0.0038259294066344137 and parameters: {'batch_size': 51, 'lr': 0.05045326047741923, 'momentum': 0.9016387709386692, 'weight_decay': 1.506207184326175e-05, 'dropout': 0.019294138089291524, 'hidden_layers': 5, 'hidden_layer_neurones': 120}. Best is trial 495 with value: 0.0038259294066344137.

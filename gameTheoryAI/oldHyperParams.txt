@@ -1,0 +1,7 @@
+Trial 949 finished with value: 0.008969720498750612 and parameters: {'batch_size': 19, 'lr': 0.016324901980461323, 'momentum': 0.9228527069063267, 'weight_decay': 4.0189504429338114e-05}. Best is trial 949 with value: 0.008969720498750612.
+
+[I 2025-04-01 16:58:56,962] Trial 0 finished with value: 0.008146107595181093 and parameters: {'batch_size': 16, 'lr': 0.00039588760189131683, 'momentum': 0.9744140152681865, 'weight_decay': 1.1220756036509257e-05}. Best is trial 0 with value: 0.008146107595181093.
+
+[I 2025-04-01 18:13:22,229] Trial 46 finished with value: 0.006478185565356398 and parameters: {'batch_size': 57, 'lr': 0.06111305839804629, 'momentum': 0.947763466326796, 'weight_decay': 1.789723276932886e-05}. Best is trial 46 with value: 0.006478185565356398.
+
+[I 2025-04-01 20:29:49,090] Trial 84 finished with value: 0.004056222809816659 and parameters: {'batch_size': 51, 'lr': 0.022523038758797638, 'momentum': 0.9396636248565761, 'weight_decay': 1.0297341010234615e-05, 'dropout': 0.07458098538049833, 'hidden_layers': 4, 'hidden_layer_neurones': 87}. Best is trial 84 with value: 0.004056222809816659.
